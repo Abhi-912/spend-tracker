@@ -1,0 +1,11 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.DS_Store
+# Never upload built APKs or stray screenshots
+*.apk
+*.jpg
+*.jpeg
+*.png

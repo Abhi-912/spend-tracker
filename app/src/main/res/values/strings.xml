@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpendTracker</string>
+    <string name="notif_service_label">Payment notifications</string>
+</resources>
